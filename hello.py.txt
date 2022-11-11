@@ -1,0 +1,9 @@
+a = int(input("enter vavlue for a="))
+
+b = int(input("enter vavlue for b="))
+s = a+b
+print("sum of" ,a, "and" ,b, "=" ,s)
+
+print("hello")
+exit()
+in cmd type python enter
